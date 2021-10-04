@@ -1,0 +1,13 @@
+@import "fontawesome-free/css/all.min.css";
+.scroll_to_top_by_mc_stephen{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    padding: 10px 12px;
+    background-color: #222;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.5s;
+    transform: scale(0);
+}
